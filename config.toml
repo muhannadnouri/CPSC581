@@ -1,4 +1,4 @@
-baseurl = "/"
+baseURL = "/"
 title = "Yusuke Ishimi"
 
 theme = "coder-portfolio"
