@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Yusuke Ishimi"
+title = "M. Nouri"
 
 theme = "coder-portfolio"
 
@@ -15,14 +15,11 @@ pygmentsUseClasses = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Yusuke Ishimi"
-    description = "Yusuke Ishimi's personal website"
+    author = "Muhannad Nouri"
+    description = "Muhannad's Personal Website"
     keywords = "blog,developer,personal"
-    info = "WEB AND APPS ENGINEER"
+    info = "Software Developer"
     avatarurl = "images/avatar.jpg"
-    footercontent = "Enter a text here."
-    fixedbarContent = "Do you want to know me more private?→"
-    fixedbarContentAfter = "Thank You! Please share it if you like it→"
 
     hideCredits = false
     hideCopyright = false
@@ -43,29 +40,25 @@ disqusShortname = "yourdiscussshortname"
     langseparator = "|"
 
 [[params.social]]
-    name = "Github"
+    name = "GitHub"
     weight = 1
-    url = "https://github.com/naro143/"
-[[params.social]]
-    name = "Twitter"
-    weight = 2
-    url = "https://twitter.com/naro143/"
+    url = "https://github.com/muhannadnouri/"
 [[params.social]]
     name = "LinkedIn"
-    weight = 3
-    url = "https://www.linkedin.com/in/naro143/"
+    weight = 2
+    url = "https://ca.linkedin.com/in/muhannadnouri"
 
 [languages]
     [languages.en]
         languagecode = "en"
         languagename = "English" # The language name to be displayed in the selector.
-        title = "Yusuke Ishimi"
+        title = "M. Nouri"
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
-            author = "Yusuke Ishimi"
-            info = "WEB AND APPS ENGINEER"
-            description = "Yusuke Ishimi's personal website"
+            author = "Muhannad Nouri"
+            info = "Software Developer"
+            description = "Muhannad's Personal Website"
             keywords = "blog,developer,personal"
 
         [languages.en.menu] # It is possible to change the menu too.
@@ -85,36 +78,6 @@ disqusShortname = "yourdiscussshortname"
                 weight = 3
                 url = "projects"
             [[languages.en.menu.main]]
-                name = "Contact me"
+                name = "Contact"
                 weight = 5
                 url = "contact"
-
-
-    [languages.ja]
-        languagecode = "ja"
-        languagename = "Japanese"
-        title = "石見 優丞"
-
-        [languages.ja.params]
-            author = "石見 優丞"
-            description = "石見のサイト"
-            keywords = "blog,developer,strona domowa"
-            info = "WEBとアプリのエンジニア"
-
-        [languages.ja.menu]
-            [[languages.ja.menu.main]]
-                name = "テーマについて"
-                weight = 1.0
-                url = "ja/about"
-            [[languages.ja.menu.main]]
-                name = "ブログ"
-                weight = 2.0
-                url = "ja/posts"
-            [[languages.ja.menu.main]]
-                name = "プロジェクト"
-                weight = 3
-                url = "ja/projects"
-            [[languages.ja.menu.main]]
-                name = "お問い合わせ"
-                weight = 5
-                url = "ja/contact"
