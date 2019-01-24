@@ -5,6 +5,11 @@ thumbnail = "images/tn.png"
 description = "contact"
 +++
 
-## Want Contact?
+Have questions or suggestions?
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/naro143/hugo-coder-portfolio/issues/new) or [ask me on Twitter](https://twitter.com/naro143).
+Need a kickass developer?
+
+Feel free to reach out to me using any of the following networks:
+
+- [LinkedIn](https://ca.linkedin.com/in/muhannadnouri)
+- [Email](mailto:muhannadnouri@gmail.com)
