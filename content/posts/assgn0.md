@@ -26,7 +26,7 @@ Here are some of things that we learnt about Donald Trump:
 #### Sketch Design Phase
 
 - Sketch 1
-<center><img src="static/Portrait.jpg" alt="drawing" align="middle" height="500" width="300"/></center>
+<center><img src="https://imgur.com/w1ZgXgi" alt="drawing" align="middle" height="500" width="300"/></center>
 
 - Sketch 2
 <center><img src="static/Portrait.jpg" alt="drawing" align="middle" height="500" width="300"/></center>
