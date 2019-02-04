@@ -1,6 +1,6 @@
 +++
-date = "2018-02-03"
-title = "Assignment 0"
+date = "2019-02-03"
+title = "CPSC 581 - Assignment 0"
 math = "true"
 
 +++
@@ -25,16 +25,23 @@ Here are some of things that we learnt about Donald Trump:
 
 #### Sketch Design Phase
 
-- Sketch 1
-<center><img src="https://imgur.com/w1ZgXgi" alt="drawing" align="middle" height="500" width="300"/></center>
+- These were the initial sketches of when I was brainstorming ideas for a Batman button. When I was searching for ideas for a Batman ideas, I picked a lot of interactions that were specific to double life of Bruce Wayne, as a billionaire by day, and as the superhero Batman by night.
+<center><img src="https://i.imgur.com/Vvta3WF.jpg" alt="drawing" align="middle" width="60%"/></center>
+<center><b>Initial Sketches</b></center>
 
-- Sketch 2
-<center><img src="static/Portrait.jpg" alt="drawing" align="middle" height="500" width="300"/></center>
+- These are the refined sketches after we pivoted from Batman and decided on a Donald Trump button. Some of my ideas that made it to the final version of the button were the Twitter birds amongst many others. 
+<center><img src="https://i.imgur.com/GZj2Stc.jpg" alt="drawing" align="middle" width="60%"/></center>
+<center><b>Refined Sketches</b></center>
 
 #### Implementation
 
-- Screenshot 1
-- Screenshot 2
+- The three different interactions that made it to the final version of the button were the building of wall, the Twitter birds where upon every click Trump becomes angrier, visualized by an increasing red colour, and finally the meme Cheeto Trump.
+
+<center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Afbi6-c6D5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<center>Video Demonstration</center>
 
 #### Source Code
 
