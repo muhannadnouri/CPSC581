@@ -33,7 +33,7 @@ This is a proof of concept demonstrating a motion sensor alternative to the trad
 
 {{% portfolio image="https://images-na.ssl-images-amazon.com/images/I/71DZKc%2BWAvL._SL1000_.jpg" alt="Mail Theft Prevention" %}}
 
-## [Mail Theft System](posts/assgn1/#design-one-touch-unlock)
+## [Color Sorting System](posts/assgn2)
 
-This project showcases a proof of concept machine for a mail theft prevention system built in C++ for the Arduino.
+This project showcases a proof of concept for a color sorting system that utilizes a colour sensor and servo motors to sort candy by colour to obtain your favorite flavour. This was written in C++ for the Arduino.
 {{% /portfolio %}}
