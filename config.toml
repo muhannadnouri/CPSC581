@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Muhannad's Personal Website"
     keywords = "blog,developer,personal"
     info = "Software Developer"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "https://i.imgur.com/w1ZgXgi.jpg?1"
 
     hideCredits = false
     hideCopyright = false
