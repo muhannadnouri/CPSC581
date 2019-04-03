@@ -6,7 +6,8 @@ description = "about"
 +++
 
 ---------------------------
-Born and raised in the Kingdom of Saudi Arabia, Muhannad is an undergraduate student at the University of Calgary pursuing a Bachelor of Science in Computer Science with a Concentration in Software Engineering. In his spare time, Muhannad enjoys going to the mountains, reading, and finding new ways to automate more things in his house.
+
+I'm an undergraduate student at the University of Calgary pursuing a Bachelor of Science in Computer Science with a Concentration in Software Engineering. In my spare time, I enjoy going to the mountains, reading, and finding new ways to automate more things in my house.
 
 ---------------------------
 
