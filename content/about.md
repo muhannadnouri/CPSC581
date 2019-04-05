@@ -11,4 +11,4 @@ I'm an undergraduate student at the University of Calgary pursuing a Bachelor of
 
 ---------------------------
 
-<center><img src="static/Portrait.jpg" alt="drawing" align="middle" height="1000" width="700"/></center>
+<center><img src="https://i.imgur.com/w1ZgXgi.jpg?1" alt="drawing" align="middle" height="" width="700"/></center>
