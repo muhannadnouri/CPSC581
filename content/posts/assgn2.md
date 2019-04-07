@@ -9,7 +9,7 @@ math = "true"
 
 #### Context
 
-In this project, we were tasked to solve an everyday problem by utilizing a combination of hardware and software, and develop a physical prototype demonstrating our proof of concept. We were given an Arduino computer and had access to any choice of sensors we desired. Through a grueling process of exploring many different idea, we finally landed on one idea as our top candidate, a colour sorting machine for candy.
+In this project, we were tasked to solve an everyday problem by utilizing a combination of hardware and software, and develop a physical prototype demonstrating our proof of concept. We were given an Arduino computer and had access to any choice of sensors we desired. Through a long process of exploring many different ideas, we finally landed on one idea as our top candidate, a colour sorting machine for candy.
 
 <hr>
 

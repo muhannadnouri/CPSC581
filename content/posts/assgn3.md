@@ -1,28 +1,30 @@
 +++
-date = "2019-04-03"
+date = "2019-04-07"
 title = "CPSC 581 - Assignment 3"
 math = "true"
 
 +++
 
-## Colour Sorting Machine
+## Beer Hat Wearable
 
 #### Context
 
-In this project, we were tasked to solve an everyday problem by utilizing a combination of hardware and software, and develop a physical prototype demonstrating our proof of concept. We were given an Arduino computer and had access to any choice of sensors we desired. Through a grueling process of exploring many different idea, we finally landed on one idea as our top candidate, a colour sorting machine for candy.
+In this project, we were tasked to solve an everyday problem by utilizing a combination of hardware and software, and develop a physical prototype demonstrating our proof of concept for a piece of wearable technology. After a long process of exploring different ideas and many discussions, we finally landed on one idea as our favorite candidate, a beer hat wearable.
 
 <hr>
 
 #### Sketch Design Phase
 
-- Placeholder
+- These were the initial sketches at the beginning stage of our ideation process when I was brainstorming ideas for interesting fashion technology. Some of my ideas were derived from everyday problems I experienced. For instance, one particular idea that stood out was creating an all season jacket that contains a built-in heating mechanism that adjusts according to the weather or your selected heating preferences.
+
+- Moreover, another idea that stood out as useful but intrusive at the same time was a hat that would automatically spray you with sunscreen. The idea behind this sunscreen hat was that during the summer season, many of us forget to put on sunscreen and end up red as a tomato after a long day from sunburns.
 
 <div class="row1">
   <div class="column1">
-    <img onClick="location.href='https://i.imgur.com/cw3pBck.jpg';" src="https://i.imgur.com/cw3pBck.jpg" alt="Snow" style="width:100%">
+    <img onClick="location.href='https://i.imgur.com/7DuZchz.jpg';" src="https://i.imgur.com/7DuZchz.jpg" alt="Initial Sketches" style="width:100%">
   </div>
   <div class="column1">
-    <img onClick="location.href='https://i.imgur.com/FSKsBPp.jpg';" src="https://i.imgur.com/FSKsBPp.jpg" alt="Forest" style="width:100%">
+    <img onClick="location.href='https://i.imgur.com/Ota3rbI.jpg';" src="https://i.imgur.com/Ota3rbI.jpg" alt="Initial Sketches" style="width:100%">
   </div>
 </div>
 
@@ -42,9 +44,13 @@ In this project, we were tasked to solve an everyday problem by utilizing a comb
   clear: both;
   display: table;
 }
+
+img:hover {
+    cursor: pointer;
+}
 </style>
 
-- Placeholder
+- After the many rounds of feedback we have received in class from our peers, and team discussions narrowing down our top candidate, we decided to proceed with the idea of a beer hat wearable that would let servers know when you have run out of beer and need a refill.
 
 - [**Album Link**](https://imgur.com/a/JHGOMpM)
 
@@ -60,7 +66,7 @@ In this project, we were tasked to solve an everyday problem by utilizing a comb
   </div>
 </div>
 
-<center><b>Color Sorting Machine Sketches</b></center>
+<center><b>Beer Hat Sketches</b></center>
 
 <style>
     /* Three image containers (use 25% for four, and 50% for two, etc) */
@@ -76,14 +82,18 @@ In this project, we were tasked to solve an everyday problem by utilizing a comb
   clear: both;
   display: table;
 }
+
+img:hover {
+    cursor: pointer;
+}
 </style>
 
 #### Implementation
 
-- Placeholder
+- In this implementation phase, we utilized an old Raspberry Pi to write, compile, and test our code. As shown in the video demonstration, once the user has drank all the beer and the sensor detects that it is no longer full, the hat would light up to let a server known that you need a refill.
 
 <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ThXtR1ksnCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    **YouTube Video**
 </center>
 
 <center><b>Video Demonstration</b></center>

@@ -38,10 +38,9 @@ This is a proof of concept demonstrating a motion sensor alternative to the trad
 This project showcases a proof of concept for a color sorting system that utilizes a colour sensor and servo motors to sort candy by colour to obtain your favorite flavour. This was written in C++ for the Arduino.
 {{% /portfolio %}}
 
-{{% portfolio image="https://i.imgur.com/FJbC5Za.jpg?1" alt="Beer" %}}
+{{% portfolio image="https://i.imgur.com/COh4Pxo.jpg?1" alt="Beer" %}}
 
 ## [Beer Hat Wearable](posts/assgn3)
 
 This project showcases a proof of concept for a beer hat wearable that utilizes a combination of sensors and a Raspberry Pi all written together in Python.
 {{% /portfolio %}}
-
