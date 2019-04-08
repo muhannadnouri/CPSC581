@@ -52,48 +52,27 @@ img:hover {
 
 - After the many rounds of feedback we have received in class from our peers, and team discussions narrowing down our top candidate, we decided to proceed with the idea of a beer hat wearable that would let servers know when you have run out of beer and need a refill.
 
-- [**Album Link**](https://imgur.com/a/JHGOMpM)
+- These refined sketches showcase the implementation of our beer hat more clearly. For the full refined sketches album, click this [**album**](https://imgur.com/a/cYv1Ub8) link to be redirected.
 
-<div class="row2">
-  <div class="column2">
-    <img onClick="location.href='https://i.imgur.com/1elI7Yp.jpg';" src="https://i.imgur.com/1elI7Yp.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column2">
-    <img onClick="location.href='https://i.imgur.com/9VdGetE.jpg';" src="https://i.imgur.com/9VdGetE.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column2">
-    <img onClick="location.href='https://i.imgur.com/79SVpkI.jpg';" src="https://i.imgur.com/79SVpkI.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>
+- The idea behind our sketches was that two beers would be mounted on both sides of the hat, as soon as the weight reaches a certain threshold where it's near empty then the hat would turn red. When the hat is full and you are not in need of a drink, the LED would be coloured green.
 
-<center><b>Beer Hat Sketches</b></center>
+- One idea I had in my sketches is when your beer glass is near empty or empty, your hat would light up red to indicate you need another drink.
 
-<style>
-    /* Three image containers (use 25% for four, and 50% for two, etc) */
-.column2 {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
+<center>
+    <img onClick="location.href='https://i.imgur.com/sSSrQ7p.jpg;" src="https://i.imgur.com/sSSrQ7p.jpg" alt="Initial Sketches" style="width:80%">
+</center>
 
-/* Clear floats after image containers */
-.row2::after {
-  content: "";
-  clear: both;
-  display: table;
-}
+<center>
+  <b>Beer Hat Sketches</b>
+</center>
 
-img:hover {
-    cursor: pointer;
-}
-</style>
 
 #### Implementation
 
 - In this implementation phase, we utilized an old Raspberry Pi to write, compile, and test our code. As shown in the video demonstration, once the user has drank all the beer and the sensor detects that it is no longer full, the hat would light up to let a server known that you need a refill.
 
 <center>
-    **YouTube Video**
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/H3RYW9ALwow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <center><b>Video Demonstration</b></center>
